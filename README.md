@@ -1,73 +1,69 @@
- <h1 align="center">Hi 👋, I'm Cynix</h1>
+  <!-- ===== HEADER ===== -->
+  <img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:39FF14&height=200&section=header&text=Cynix&
+  fontColor=0d1117&fontSize=70&fontAlignY=35&desc=automate.%20everything.&descAlignY=58&descSize=18&animation=fadeIn"/>
 
-  <p align="center">
-    <strong>Automation Enthusiast • Custom Tools • Tinkerer</strong>
-  </p>
-
-  <p align="center">
-    <em>A dumb who wants everything automated.</em>
-  </p>
-
+  <!-- ===== TYPING TAGLINE ===== -->
   <p align="center">
     <a href="https://github.com/YOUR_GITHUB_USERNAME">
-      <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social">
-    </a>
-    <a href="https://discord.gg/hPrR4q82Tz" target="_blank">
-      <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat&logo=discord&logoColor=white">
-    </a>
-    <a href="mailto:realcynixx@gmail.com">
-      <img src="https://img.shields.io/badge/Email-DM%20Me-D14836?style=flat&logo=gmail&logoColor=white">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&cen
+  ter=true&vCenter=true&width=520&lines=A+dumb+who+wants+everything+automated;Bots+%2F+Scripts+%2F+Custom+Tools;Python+%
+  E2%80%A2+C+%E2%80%A2+.NET+%E2%80%A2+Arduino" alt="typing"/>
     </a>
   </p>
 
-  ---
-
-  <h3 align="center">🛠️ Languages & Tools</h3>
-
+  <!-- ===== SOCIAL ===== -->
   <p align="center">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-  width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-  alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-  height="40"/></a>
-    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-  alt="dotnet" width="40" height="40"/></a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img
-  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-  alt="mongodb" width="40" height="40"/></a>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img
-  src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/github/followers/YOUR_GITHUB_USER
+  NAME?label=FOLLOW&style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github&logoColor=00E5FF"/></a>
+    <a href="https://discord.gg/hPrR4q82Tz"><img src="https://img.shields.io/badge/DISCORD-JOIN-39FF14?style=for-the-bad
+  ge&labelColor=0d1117&logo=discord&logoColor=39FF14"/></a>
+    <a href="mailto:realcynixx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DM-FF2E63?style=for-the-badge&lab
+  elColor=0d1117&logo=gmail&logoColor=FF2E63"/></a>
   </p>
 
-  ---
+  <br/>
 
+  <!-- ===== STACK ===== -->
+  <h3 align="center">⟢ stack</h3>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&hide_b
-  order=true&count_private=true">
+    <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=39FF14"/>
+    <img src="https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=39FF14"/>
+  </p>
+
+  <br/>
+
+  <!-- ===== STATS (matched palette) ===== -->
+  <p align="center">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide
+  _border=true&count_private=true&title_color=00E5FF&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117"/>
+    <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&hide_border=true&ba
+  ckground=0d1117&stroke=00E5FF&ring=39FF14&fire=39FF14&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreak
+  Num=c9d1d9&sideNums=c9d1d9"/>
   </p>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border
-  =true&layout=compact">
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=co
+  mpact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117"/>
   </p>
 
-  ---
+  <br/>
+
+  <!-- ===== CTA ===== -->
+  <p align="center">
+    <strong>⚡ currently automating everything I can get my hands on</strong><br/>
+    bots &nbsp;•&nbsp; scripts &nbsp;•&nbsp; custom tools &nbsp;•&nbsp; discord systems
+  </p>
 
   <p align="center">
-    <strong>⚡ Currently automating everything I can get my hands on</strong><br>
-    Bots • Scripts • Custom Tools • Discord Systems<br><br>
-    <a href="https://discord.gg/hPrR4q82Tz" target="_blank"><b>Join my Discord</b></a>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20
+  MY%20PROJECTS-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
   </p>
 
-  ---
-
-  <p align="center">
-    <a href="https://github.com/YOUR_GITHUB_USERNAME?tab=repositories">
-      <img src="https://img.shields.io/badge/Explore%20My%20Projects-24292e?style=for-the-badge&logo=github">
-    </a>
-  </p>
+  <!-- ===== FOOTER ===== -->
+  <img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00E5FF&height=120&section=footer"/>
