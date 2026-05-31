@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:39FF14&height=200&section=header&text=Cynix&fontColor=0d1117&fontSize=70&fontAlignY=35&desc=automate.%20everything.&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:39FF14&height=200&section=header&text=Cynix&fontColor=0d1117&fontSize=70&fontAlignY=35&desc=automates.%20everything.&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- ===== TYPING TAGLINE ===== -->
 <p align="center">
