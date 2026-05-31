@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<!-- ===== PROFILE VIEWS ===== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RealCynix&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&base=0"/>
+</p>
+
 <!-- ===== SOCIAL ===== -->
 <p align="center">
   <a href="https://github.com/RealCynix"><img src="https://img.shields.io/github/followers/RealCynix?label=FOLLOW&style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github&logoColor=00E5FF"/></a>
@@ -32,12 +37,12 @@
 
 <!-- ===== STATS (matched palette) ===== -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RealCynix&show_icons=true&hide_border=true&count_private=true&title_color=00E5FF&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="165" src="https://github-readme-stats-livid-omega-46.vercel.app/api?username=RealCynix&show_icons=true&hide_border=true&count_private=true&title_color=00E5FF&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117"/>
   <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=RealCynix&hide_border=true&background=0d1117&stroke=00E5FF&ring=39FF14&fire=39FF14&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealCynix&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="155" src="https://github-readme-stats-livid-omega-46.vercel.app/api/top-langs/?username=RealCynix&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117"/>
 </p>
 
 <br/>
