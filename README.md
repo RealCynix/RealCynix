@@ -22,31 +22,6 @@
 
 <br/>
 
-<!-- ===== STACK ===== -->
-<h3 align="center">⟢ stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/.NET-0d1117?style=for-the-badge&logo=dotnet&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=39FF14"/>
-  <img src="https://img.shields.io/badge/Arduino-0d1117?style=for-the-badge&logo=arduino&logoColor=39FF14"/>
-</p>
-
-<br/>
-
-<!-- ===== STATS (matched palette) ===== -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats-livid-omega-46.vercel.app/api?username=RealCynix&show_icons=true&hide_border=true&count_private=true&title_color=00E5FF&icon_color=39FF14&text_color=c9d1d9&bg_color=0d1117"/>
-  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=RealCynix&hide_border=true&background=0d1117&stroke=00E5FF&ring=39FF14&fire=39FF14&currStreakLabel=00E5FF&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"/>
-</p>
-
-<p align="center">
-  <img height="155" src="https://github-readme-stats-livid-omega-46.vercel.app/api/top-langs/?username=RealCynix&layout=compact&hide_border=true&title_color=00E5FF&text_color=c9d1d9&bg_color=0d1117"/>
-</p>
-
-<br/>
-
 <!-- ===== CTA ===== -->
 <p align="center">
   <strong>⚡ currently automating everything I can get my hands on</strong><br/>
