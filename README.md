@@ -4,24 +4,25 @@
 <!-- ===== TYPING TAGLINE ===== -->
 <p align="center">
   <a href="https://github.com/RealCynix">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=A+dumb+who+wants+everything+automated;Bots+%2F+Scripts+%2F+Custom+Tools;Python+%E2%80%A2+C+%E2%80%A2+.NET+%E2%80%A2+Arduino" alt="typing"/>
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=520&lines=A+dumb+who+wants+everything+automated;Discord+Tools+%2F+Bots+%2F+Management;Python+%E2%80%A2+Golang+%E2%80%A2+JavaScript;Available+for+paid+automation+work" alt="typing"/>
   </a>
-</p>
-
-<!-- ===== SOCIAL ===== -->
-<p align="center">
-  <a href="https://github.com/RealCynix"><img src="https://img.shields.io/github/followers/RealCynix?label=FOLLOW&style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github&logoColor=00E5FF"/></a>
-  <a href="https://discord.gg/hPrR4q82Tz"><img src="https://img.shields.io/badge/DISCORD-JOIN-39FF14?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=39FF14"/></a>
-  <a href="mailto:realcynixx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DM-FF2E63?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=FF2E63"/></a>
-  <img src="https://komarev.com/ghpvc/?username=RealCynix&label=VIEWS&color=00E5FF&style=for-the-badge&base=0"/>
 </p>
 
 <br/>
 
-<!-- ===== CTA ===== -->
+<!-- ===== ETHOS ===== -->
 <p align="center">
-  <strong>⚡ currently automating everything I can get my hands on</strong><br/>
-  bots &nbsp;•&nbsp; scripts &nbsp;•&nbsp; custom tools &nbsp;•&nbsp; discord systems
+  <strong>curious how things really work beneath the surface</strong>
+</p>
+
+<br/>
+
+<!-- ===== SOCIAL (bottom) ===== -->
+<p align="center">
+  <a href="https://github.com/RealCynix"><img src="https://img.shields.io/github/followers/RealCynix?label=Follow&style=for-the-badge&color=00b3c4&labelColor=0d1117&logo=github&logoColor=00b3c4"/></a>
+  <a href="https://discord.gg/hPrR4q82Tz"><img src="https://img.shields.io/badge/Discord-Join-39FF14?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=39FF14"/></a>
+  <a href="mailto:realcynixx@gmail.com"><img src="https://img.shields.io/badge/Email-DM-FF2E63?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=FF2E63"/></a>
+  <img src="https://komarev.com/ghpvc/?username=RealCynix&label=Views&color=414a55&style=for-the-badge"/>
 </p>
 
 <!-- ===== FOOTER ===== -->
