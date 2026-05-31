@@ -1,5 +1,5 @@
 <!-- ===== HEADER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:39FF14&height=200&section=header&text=Cynix&fontColor=0d1117&fontSize=70&fontAlignY=35&desc=automates.%20everything.&descAlignY=58&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:39FF14&height=200&section=header&text=Cynix&fontColor=0d1117&fontSize=70&fontAlignY=35&desc=automate.%20everything.&descAlignY=58&descSize=18&animation=fadeIn"/>
 
 <!-- ===== TYPING TAGLINE ===== -->
 <p align="center">
@@ -20,8 +20,8 @@
 <!-- ===== SOCIAL (bottom) ===== -->
 <p align="center">
   <a href="https://discord.gg/hPrR4q82Tz"><img src="https://img.shields.io/badge/Discord-Join-39FF14?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=39FF14"/></a>
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-DM-2CA5E0?style=for-the-badge&labelColor=0d1117&logo=telegram&logoColor=2CA5E0"/></a>
   <a href="mailto:realcynixx@gmail.com"><img src="https://img.shields.io/badge/Email-DM-FF2E63?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=FF2E63"/></a>
-  <img src="https://komarev.com/ghpvc/?username=RealCynix&label=Views&color=414a55&style=for-the-badge"/>
 </p>
 
 <!-- ===== FOOTER ===== -->
