@@ -52,5 +52,10 @@
   <a href="https://github.com/RealCynix?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 </p>
 
+<!-- ===== SNAKE ===== -->
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/RealCynix/RealCynix/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 <!-- ===== FOOTER ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00E5FF&height=120&section=footer"/>
