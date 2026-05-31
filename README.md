@@ -8,16 +8,12 @@
   </a>
 </p>
 
-<!-- ===== PROFILE VIEWS ===== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RealCynix&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge&base=0"/>
-</p>
-
 <!-- ===== SOCIAL ===== -->
 <p align="center">
   <a href="https://github.com/RealCynix"><img src="https://img.shields.io/github/followers/RealCynix?label=FOLLOW&style=for-the-badge&color=00E5FF&labelColor=0d1117&logo=github&logoColor=00E5FF"/></a>
   <a href="https://discord.gg/hPrR4q82Tz"><img src="https://img.shields.io/badge/DISCORD-JOIN-39FF14?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=39FF14"/></a>
   <a href="mailto:realcynixx@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DM-FF2E63?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=FF2E63"/></a>
+  <img src="https://komarev.com/ghpvc/?username=RealCynix&label=VIEWS&color=00E5FF&style=for-the-badge&base=0"/>
 </p>
 
 <br/>
@@ -26,10 +22,6 @@
 <p align="center">
   <strong>⚡ currently automating everything I can get my hands on</strong><br/>
   bots &nbsp;•&nbsp; scripts &nbsp;•&nbsp; custom tools &nbsp;•&nbsp; discord systems
-</p>
-
-<p align="center">
-  <a href="https://github.com/RealCynix?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
 </p>
 
 <!-- ===== SNAKE ===== -->
