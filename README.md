@@ -20,7 +20,7 @@
 <!-- ===== SOCIAL (bottom) ===== -->
 <p align="center">
   <a href="https://discord.gg/hPrR4q82Tz"><img src="https://img.shields.io/badge/Discord-Join-39FF14?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=39FF14"/></a>
-  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-DM-2CA5E0?style=for-the-badge&labelColor=0d1117&logo=telegram&logoColor=2CA5E0"/></a>
+  <a href="https://t.me/@CynixReal"><img src="https://img.shields.io/badge/Telegram-DM-2CA5E0?style=for-the-badge&labelColor=0d1117&logo=telegram&logoColor=2CA5E0"/></a>
   <a href="mailto:realcynixx@gmail.com"><img src="https://img.shields.io/badge/Email-DM-FF2E63?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=FF2E63"/></a>
 </p>
 
