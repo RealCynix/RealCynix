@@ -19,7 +19,6 @@
 
 <!-- ===== SOCIAL (bottom) ===== -->
 <p align="center">
-  <a href="https://github.com/RealCynix"><img src="https://img.shields.io/github/followers/RealCynix?label=Follow&style=for-the-badge&color=00b3c4&labelColor=0d1117&logo=github&logoColor=00b3c4"/></a>
   <a href="https://discord.gg/hPrR4q82Tz"><img src="https://img.shields.io/badge/Discord-Join-39FF14?style=for-the-badge&labelColor=0d1117&logo=discord&logoColor=39FF14"/></a>
   <a href="mailto:realcynixx@gmail.com"><img src="https://img.shields.io/badge/Email-DM-FF2E63?style=for-the-badge&labelColor=0d1117&logo=gmail&logoColor=FF2E63"/></a>
   <img src="https://komarev.com/ghpvc/?username=RealCynix&label=Views&color=414a55&style=for-the-badge"/>
