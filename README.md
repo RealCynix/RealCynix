@@ -13,6 +13,7 @@
 <!-- ===== ETHOS ===== -->
 <p align="center">
   <strong>curious how things really work beneath the surface</strong>
+  <strong>the projects are private (Token Gen , WorkerBased Mobile Captcha Solver) </strong>
 </p>
 
 <br/>
